@@ -1,0 +1,389 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A0E60F0122799AA500FB64B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E60F0022799AA500FB64B5 /* AppDelegate.swift */; };
+		A0E60F0322799AA500FB64B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E60F0222799AA500FB64B5 /* ViewController.swift */; };
+		A0E60F0622799AA500FB64B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F0422799AA500FB64B5 /* Main.storyboard */; };
+		A0E60F0822799AA700FB64B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F0722799AA700FB64B5 /* Assets.xcassets */; };
+		A0E60F0B22799AA700FB64B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F0922799AA700FB64B5 /* LaunchScreen.storyboard */; };
+		A0E60F1322799AD200FB64B5 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F1222799AD200FB64B5 /* 1024.png */; };
+		A0E60F1522799B3B00FB64B5 /* kitchen.png in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F1422799B3B00FB64B5 /* kitchen.png */; };
+		A0E60F1722799FB500FB64B5 /* AboutPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E60F1622799FB500FB64B5 /* AboutPageViewController.swift */; };
+		A0E60F1922799FDC00FB64B5 /* SettingsPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E60F1822799FDC00FB64B5 /* SettingsPageViewController.swift */; };
+		A0E60F1B22799FF400FB64B5 /* AppointmentsPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E60F1A22799FF400FB64B5 /* AppointmentsPageViewController.swift */; };
+		A0E60F1D2279A00400FB64B5 /* ExamplesPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E60F1C2279A00400FB64B5 /* ExamplesPageViewController.swift */; };
+		A0E60F1F2279A01400FB64B5 /* DesignPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E60F1E2279A01400FB64B5 /* DesignPageViewController.swift */; };
+		A0E60F412279B1F100FB64B5 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F402279B1F100FB64B5 /* art.scnassets */; };
+		A0E60F432279B20200FB64B5 /* Pokemon Cards.arresourcegroup in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F422279B20200FB64B5 /* Pokemon Cards.arresourcegroup */; };
+		A0E60F452279B20800FB64B5 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F442279B20800FB64B5 /* Contents.json */; };
+		A0E60F472279B59A00FB64B5 /* insta-fb.png in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F462279B59A00FB64B5 /* insta-fb.png */; };
+		A0E60F4F227A027100FB64B5 /* Kitchen Unit.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A0E60F4E227A027100FB64B5 /* Kitchen Unit.jpeg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A0E60EFD22799AA500FB64B5 /* AR Kitchen Planner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Kitchen Planner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0E60F0022799AA500FB64B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A0E60F0222799AA500FB64B5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A0E60F0522799AA500FB64B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A0E60F0722799AA700FB64B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A0E60F0A22799AA700FB64B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A0E60F0C22799AA700FB64B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0E60F1222799AD200FB64B5 /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
+		A0E60F1422799B3B00FB64B5 /* kitchen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kitchen.png; sourceTree = "<group>"; };
+		A0E60F1622799FB500FB64B5 /* AboutPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutPageViewController.swift; sourceTree = "<group>"; };
+		A0E60F1822799FDC00FB64B5 /* SettingsPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsPageViewController.swift; sourceTree = "<group>"; };
+		A0E60F1A22799FF400FB64B5 /* AppointmentsPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentsPageViewController.swift; sourceTree = "<group>"; };
+		A0E60F1C2279A00400FB64B5 /* ExamplesPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamplesPageViewController.swift; sourceTree = "<group>"; };
+		A0E60F1E2279A01400FB64B5 /* DesignPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignPageViewController.swift; sourceTree = "<group>"; };
+		A0E60F402279B1F100FB64B5 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		A0E60F422279B20200FB64B5 /* Pokemon Cards.arresourcegroup */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Pokemon Cards.arresourcegroup"; path = "Assets.xcassets/Pokemon Cards.arresourcegroup"; sourceTree = "<group>"; };
+		A0E60F442279B20800FB64B5 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Contents.json; path = Assets.xcassets/Contents.json; sourceTree = "<group>"; };
+		A0E60F462279B59A00FB64B5 /* insta-fb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "insta-fb.png"; sourceTree = "<group>"; };
+		A0E60F4E227A027100FB64B5 /* Kitchen Unit.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kitchen Unit.jpeg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A0E60EFA22799AA500FB64B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A0E60EF422799AA500FB64B5 = {
+			isa = PBXGroup;
+			children = (
+				A0E60EFF22799AA500FB64B5 /* AR Kitchen Planner */,
+				A0E60EFE22799AA500FB64B5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A0E60EFE22799AA500FB64B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A0E60EFD22799AA500FB64B5 /* AR Kitchen Planner.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A0E60EFF22799AA500FB64B5 /* AR Kitchen Planner */ = {
+			isa = PBXGroup;
+			children = (
+				A0E60F402279B1F100FB64B5 /* art.scnassets */,
+				A0E60F0022799AA500FB64B5 /* AppDelegate.swift */,
+				A0E60F0222799AA500FB64B5 /* ViewController.swift */,
+				A0E60F1622799FB500FB64B5 /* AboutPageViewController.swift */,
+				A0E60F1822799FDC00FB64B5 /* SettingsPageViewController.swift */,
+				A0E60F1A22799FF400FB64B5 /* AppointmentsPageViewController.swift */,
+				A0E60F1C2279A00400FB64B5 /* ExamplesPageViewController.swift */,
+				A0E60F1E2279A01400FB64B5 /* DesignPageViewController.swift */,
+				A0E60F0422799AA500FB64B5 /* Main.storyboard */,
+				A0E60F0722799AA700FB64B5 /* Assets.xcassets */,
+				A0E60F4E227A027100FB64B5 /* Kitchen Unit.jpeg */,
+				A0E60F462279B59A00FB64B5 /* insta-fb.png */,
+				A0E60F442279B20800FB64B5 /* Contents.json */,
+				A0E60F422279B20200FB64B5 /* Pokemon Cards.arresourcegroup */,
+				A0E60F1422799B3B00FB64B5 /* kitchen.png */,
+				A0E60F1222799AD200FB64B5 /* 1024.png */,
+				A0E60F0922799AA700FB64B5 /* LaunchScreen.storyboard */,
+				A0E60F0C22799AA700FB64B5 /* Info.plist */,
+			);
+			path = "AR Kitchen Planner";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A0E60EFC22799AA500FB64B5 /* AR Kitchen Planner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A0E60F0F22799AA700FB64B5 /* Build configuration list for PBXNativeTarget "AR Kitchen Planner" */;
+			buildPhases = (
+				A0E60EF922799AA500FB64B5 /* Sources */,
+				A0E60EFA22799AA500FB64B5 /* Frameworks */,
+				A0E60EFB22799AA500FB64B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "AR Kitchen Planner";
+			productName = "AR Kitchen Planner";
+			productReference = A0E60EFD22799AA500FB64B5 /* AR Kitchen Planner.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A0E60EF522799AA500FB64B5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = "BPH-Solutions";
+				TargetAttributes = {
+					A0E60EFC22799AA500FB64B5 = {
+						CreatedOnToolsVersion = 10.2.1;
+					};
+				};
+			};
+			buildConfigurationList = A0E60EF822799AA500FB64B5 /* Build configuration list for PBXProject "AR Kitchen Planner" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A0E60EF422799AA500FB64B5;
+			productRefGroup = A0E60EFE22799AA500FB64B5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A0E60EFC22799AA500FB64B5 /* AR Kitchen Planner */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A0E60EFB22799AA500FB64B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A0E60F0B22799AA700FB64B5 /* LaunchScreen.storyboard in Resources */,
+				A0E60F4F227A027100FB64B5 /* Kitchen Unit.jpeg in Resources */,
+				A0E60F412279B1F100FB64B5 /* art.scnassets in Resources */,
+				A0E60F0822799AA700FB64B5 /* Assets.xcassets in Resources */,
+				A0E60F472279B59A00FB64B5 /* insta-fb.png in Resources */,
+				A0E60F452279B20800FB64B5 /* Contents.json in Resources */,
+				A0E60F432279B20200FB64B5 /* Pokemon Cards.arresourcegroup in Resources */,
+				A0E60F1322799AD200FB64B5 /* 1024.png in Resources */,
+				A0E60F0622799AA500FB64B5 /* Main.storyboard in Resources */,
+				A0E60F1522799B3B00FB64B5 /* kitchen.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A0E60EF922799AA500FB64B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A0E60F1922799FDC00FB64B5 /* SettingsPageViewController.swift in Sources */,
+				A0E60F1B22799FF400FB64B5 /* AppointmentsPageViewController.swift in Sources */,
+				A0E60F1F2279A01400FB64B5 /* DesignPageViewController.swift in Sources */,
+				A0E60F1D2279A00400FB64B5 /* ExamplesPageViewController.swift in Sources */,
+				A0E60F0322799AA500FB64B5 /* ViewController.swift in Sources */,
+				A0E60F1722799FB500FB64B5 /* AboutPageViewController.swift in Sources */,
+				A0E60F0122799AA500FB64B5 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A0E60F0422799AA500FB64B5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A0E60F0522799AA500FB64B5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A0E60F0922799AA700FB64B5 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A0E60F0A22799AA700FB64B5 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A0E60F0D22799AA700FB64B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A0E60F0E22799AA700FB64B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A0E60F1022799AA700FB64B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = W8J7HV2AU4;
+				INFOPLIST_FILE = "AR Kitchen Planner/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "BPH.AR-Kitchen-Planner";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A0E60F1122799AA700FB64B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = W8J7HV2AU4;
+				INFOPLIST_FILE = "AR Kitchen Planner/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "BPH.AR-Kitchen-Planner";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A0E60EF822799AA500FB64B5 /* Build configuration list for PBXProject "AR Kitchen Planner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0E60F0D22799AA700FB64B5 /* Debug */,
+				A0E60F0E22799AA700FB64B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A0E60F0F22799AA700FB64B5 /* Build configuration list for PBXNativeTarget "AR Kitchen Planner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0E60F1022799AA700FB64B5 /* Debug */,
+				A0E60F1122799AA700FB64B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A0E60EF522799AA500FB64B5 /* Project object */;
+}
